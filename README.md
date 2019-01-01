@@ -2,6 +2,8 @@
 
 > A Vue.js project that uses spotify api
 
+<a href="https://resimyukle.xyz/i/5yL40G"><img src="https://i.resimyukle.xyz/5yL40G.png" /></a>
+
 ## Build Setup
 
 ``` bash
