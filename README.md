@@ -1,6 +1,6 @@
-# vue-spotify-api
+# vue-yandex-translate-api
 
-> A Vue.js project that uses spotify api
+> A Vue.js project that uses yandex api
 
 <a href="https://resimyukle.xyz/i/5yL40G"><img src="https://i.resimyukle.xyz/5yL40G.png" /></a>
 
